@@ -25,4 +25,5 @@ Gem::Specification.new do |spec|
   spec.add_dependency "simple_command", "1.0.1"
   spec.add_development_dependency "rspec-rails", "~> 5.0"
   spec.add_development_dependency "factory_bot_rails"
+  spec.add_development_dependency "pundit"
 end

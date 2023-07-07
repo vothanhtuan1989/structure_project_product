@@ -1,5 +1,4 @@
 require "rails_helper"
-require "simple_command"
 
 module Product
   describe ProductCommands::ListProductsOutOfStockCommand do
